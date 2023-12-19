@@ -14,7 +14,7 @@ To write a program to find the GCD of two numbers using function.
 4. Use for() and if() loop to find the GCD of the two numbers.
 
 ## Program:
-# Program to find the gcd of number usinf functions
+# Program to find the gcd of number using functions
 # Developed By: HARIHARAN J
 # RegisterNumber: 23011967
 ```
